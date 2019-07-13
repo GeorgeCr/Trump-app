@@ -36,4 +36,4 @@ const launchApp = () => {
     new App();
 }
 new App();
-setInterval(launchApp, 3000);
+setInterval(launchApp, 7000);
