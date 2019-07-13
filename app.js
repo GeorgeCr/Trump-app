@@ -35,4 +35,5 @@ class App {
 const launchApp = () => {
     new App();
 }
+new App();
 setInterval(launchApp, 3000);
